@@ -1,5 +1,10 @@
 # Aria Chen
 
+<p align="center">
+  <img src="assets/dev_header.png" alt="Developer Terminal" width="100%" style="border-radius: 10px;">
+</p>
+
+
 Distributed systems engineer based in Taipei.  
 Focusing on asynchronous worker pools, task scheduling, serialization protocols, and pipeline latency reduction.
 
